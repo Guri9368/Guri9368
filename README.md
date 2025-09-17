@@ -1,8 +1,7 @@
 <!-- Profile README with animations, colors & tech vibe -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Gurmeet+Singh+Rathor;🚀+Full-Stack+Developer;💻+Competitive+Programmer;⚡+Tech+Enthusiast" alt="Typing Animation" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=2000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Gurmeet+Singh+Rathor;🚀+Full-Stack+Developer;💻+Competitive+Programmer;⚡+Tech+Enthusiast)](https://git.io/typing-svg)
+
 
 ---
 
