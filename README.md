@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVuN3p3cThra25iN2RxN2x2cXZ1N3o5bW1vazA1bGh4emZ6dmVvYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOZhmE42D1WrCW1q6j/giphy.gif" width="400px" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding GIF"/>
 </p>
 
 ---
@@ -115,4 +115,4 @@
 
 ---
 
-⭐️ From [Guri9368](https://github.com/Guri9368)
+⭐️ From [Guri9368](https://github.com/Guri9368)  
