@@ -1,10 +1,19 @@
-<h1 align="center">Hi 👋, I'm Gurmeet Singh Rathor</h1>
-<h3 align="center">🚀 Full-Stack Developer | Competitive Programmer | Tech Enthusiast</h3>
+<!-- Profile README with animations, colors & tech vibe -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Gurmeet+Singh+Rathor;🚀+Full-Stack+Developer;💻+Competitive+Programmer;⚡+Tech+Enthusiast" alt="Typing Animation" />
+</h1>
+
+---
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVuN3p3cThra25iN2RxN2x2cXZ1N3o5bW1vazA1bGh4emZ6dmVvYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOZhmE42D1WrCW1q6j/giphy.gif" width="400px" alt="Coding GIF"/>
+</p>
 
 ---
 
 ## 🌟 About Me  
-- 🎓 Final Year B.Tech in **Chemical Engineering** at Motilal Nehru National Institute of Technology, India (2022–2026)  
+- 🎓 Final Year B.Tech in **Chemical Engineering** at **MNNIT Allahabad** (2022–2026)  
 - 💻 Passionate about **Full-Stack Development, System Design, and Problem Solving**  
 - 🚀 Experienced with **MERN, Next.js, TypeScript, AWS, Prisma, PostgreSQL, Microservices**  
 - 🏆 Secured **1st Position in WebCode Competition** (Avishkar Tech Fest 2024)  
@@ -18,56 +27,48 @@
 ## 💼 Experience  
 
 ### 🚀 Mobisoft Technologies – Internship (Remote)  
-- Spearheaded **front-end redesign** of teacher-parent app using React.js → reduced load time by **60%**.  
-- Audited **200+ lines** of React.js codebase → resolved 15+ critical bugs, improving stability.  
-- Implemented **basic feature integrations** under guidance of senior engineers.  
+✅ **React.js front-end redesign** → reduced load time **60%**  
+✅ Audited **200+ lines** of code → fixed **15+ bugs**  
+✅ Built **feature integrations** with senior guidance  
 
 ---
 
 ## 📌 Featured Projects  
 
 ### 🏡 **Homify – Real Estate Rental Platform**  
-- Tech: Next.js | TypeScript | Redux Toolkit | Tailwind | AWS (EC2, Amplify, S3, Cognito, API Gateway, PostGIS)  
-- 🛠️ Built **full-stack rental platform** with secure **RBAC (Role-Based Access Control)** via AWS Cognito.  
-- 📊 Optimized REST APIs using **Node.js + Prisma ORM + PostgreSQL/PostGIS** → reduced query latency by 60%.  
-- 🌐 Deployed on AWS Amplify + EC2 → achieved **99.9% uptime**.  
+⚙️ **Next.js | TypeScript | Redux | AWS | PostgreSQL | Prisma | PostGIS**  
+- Built **RBAC-secured rental platform** with AWS Cognito  
+- Optimized APIs → **60% faster queries**  
+- Deployed on AWS → **99.9% uptime**  
 
 🔗 [Live Demo](#) | [GitHub Repo](#)
 
 ---
 
 ### 💬 **ChatSync – Real-Time Microservices Chat App**  
-- Tech: MERN Stack | WebSockets | Redis | RabbitMQ | Docker | AWS EC2 | PM2  
-- ⚡ Delivered **real-time chat with Socket.IO** (<100ms latency).  
-- 🔒 Implemented **JWT auth + OTP email verification (95% success)**.  
-- 📦 Improved DB performance by **40%** with Redis caching.  
-- 🛠️ Decoupled services with RabbitMQ → achieved **30% faster OTP dispatching**.  
+⚙️ **MERN | WebSockets | Redis | RabbitMQ | Docker | AWS EC2 | PM2**  
+- Real-time chat with **<100ms latency**  
+- **JWT + OTP auth (95% success)**  
+- Redis caching → **40% DB boost**  
+- RabbitMQ decoupling → **30% faster OTP dispatching**  
 
 🔗 [Live Demo](#) | [GitHub Repo](#)
 
 ---
 
 ## 🏆 Achievements  
-- 🥇 Winner – Web Development Competition (Avishkar Tech Fest 2024)  
-- 🤖 Robotics Finalist – IIT Bombay e-Yantra Robotics Competition (2023)  
-- ⚡ 2nd Runner-up – Annual Robotics Competition (MNNIT Robotics Club 2023)  
-- 🌍 Global Rank 41 – CodeChef (Division 3, 2025)  
+🥇 Winner – Web Development (Avishkar Tech Fest 2024)  
+🤖 Finalist – IIT Bombay e-Yantra Robotics Competition (2023)  
+⚡ 2nd Runner-up – MNNIT Robotics Club (2023)  
+🌍 Global Rank 41 – CodeChef Div 3 (2025)  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Languages:**  
-`C++` | `JavaScript` | `TypeScript`  
-
-**Frameworks & Tools:**  
-`React.js` | `Next.js` | `Express.js` | `Node.js` | `Git` | `GitHub`  
-
-**Databases:**  
-`PostgreSQL` | `MongoDB` | `Prisma ORM` | `Redis` | `Neo4j`  
-
-**Cloud & DevOps:**  
-`AWS (EC2, Amplify, S3, Cognito, API Gateway)` | `Docker` | `RabbitMQ`  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,redis,aws,docker,rabbitmq,git,github&theme=light" />
+</p>
 
 ---
 
@@ -75,6 +76,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Guri9368&show_icons=true&theme=radical" alt="stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guri9368&theme=radical" alt="streak" height="170"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guri9368&layout=compact&theme=radical" alt="languages" height="170"/>
 </p>
 
@@ -90,9 +95,23 @@
 
 ## 📫 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gurmeet-rathor/)  
-- 💻 [LeetCode](https://leetcode.com/u/gurmeet_009/)  
-- 📧 Email: **gurmeetneetu2525@gmail.com**
+<p align="center">
+  <a href="https://www.linkedin.com/in/gurmeet-singh-rathor-1bbbaa270/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/gurmeet_009/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:gurigurmeet1234567@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
