@@ -1,88 +1,117 @@
-# Hi, I'm Gurmeet 👋
+<!-- Profile README with animations, colors & tech vibe -->
 
-<!-- Inline animated SVG header (rotating isometric cube) -->
-<svg width="100%" height="220" viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated 3D cube">
-  <defs>
-    <linearGradient id="gTop" x1="0" x2="1">
-      <stop offset="0" stop-color="#6EE7B7"/>
-      <stop offset="1" stop-color="#3B82F6"/>
-    </linearGradient>
-    <linearGradient id="gLeft" x1="0" x2="1">
-      <stop offset="0" stop-color="#60A5FA"/>
-      <stop offset="1" stop-color="#7C3AED"/>
-    </linearGradient>
-    <linearGradient id="gRight" x1="0" x2="1">
-      <stop offset="0" stop-color="#A78BFA"/>
-      <stop offset="1" stop-color="#F472B6"/>
-    </linearGradient>
-    <filter id="softShadow" x="-50%" y="-50%" width="200%" height="200%">
-      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-opacity="0.18"/>
-    </filter>
-  </defs>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=2000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Gurmeet+Singh+Rathor;🚀+Full-Stack+Developer;💻+Competitive+Programmer;⚡+Tech+Enthusiast)](https://git.io/typing-svg)
 
-  <!-- group centered in the viewBox so rotation looks natural -->
-  <g transform="translate(100,60)">
-    <!-- continuous slow rotation around Z -->
-    <animateTransform attributeName="transform"
-                      type="rotate"
-                      from="0 0 0"
-                      to="360 0 0"
-                      dur="8s"
-                      repeatCount="indefinite" />
-
-    <!-- isometric cube constructed from 3 polygons -->
-    <!-- top face -->
-    <g filter="url(#softShadow)">
-      <polygon points="0,-36 36,-18 0,0 -36,-18"
-               fill="url(#gTop)" stroke="#ffffff20" stroke-width="0.5"/>
-      <!-- left face -->
-      <polygon points="-36,-18 0,0 -36,36 -72,18"
-               fill="url(#gLeft)" stroke="#00000010" stroke-width="0.5"/>
-      <!-- right face -->
-      <polygon points="36,-18 72,0 36,36 0,0"
-               fill="url(#gRight)" stroke="#00000010" stroke-width="0.5"/>
-    </g>
-
-    <!-- subtle bobbing (Y translation) to add depth -->
-    <animateTransform attributeName="transform"
-                      type="translate"
-                      values="0,0; 0,4; 0,0"
-                      dur="2.8s"
-                      additive="sum"
-                      repeatCount="indefinite"/>
-  </g>
-</svg>
 
 ---
 
-## About me
-- 🚀 Full-Stack Developer & Competitive Programmer  
-- 🔭 Currently working on cool projects (React, Node, LangChain etc.)  
-- 💬 Ask me about optimization, algorithms, or building dev tools
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding GIF"/>
+</p>
 
 ---
 
-## Quick links
-- 🔗 My projects: `./projects`
-- 📫 How to reach me: open an issue in this repo, or check my profile
+## 🌟 About Me  
+- 🎓 Final Year B.Tech in **Chemical Engineering** at **MNNIT Allahabad** (2022–2026)  
+- 💻 Passionate about **Full-Stack Development, System Design, and Problem Solving**  
+- 🚀 Experienced with **MERN, Next.js, TypeScript, AWS, Prisma, PostgreSQL, Microservices**  
+- 🏆 Secured **1st Position in WebCode Competition** (Avishkar Tech Fest 2024)  
+- 🔥 Active on **LeetCode** → [Profile](https://leetcode.com/u/gurmeet_009/)  
+  - Solved **677+ Problems**  
+  - Global Rank **78,062**  
+  - Contest Rating: **1548 (Top 32%)**
 
 ---
 
-## Customize this header
-1. **Change colors** — edit the `<linearGradient>` stops in the SVG.
-2. **Change rotation speed** — modify `dur="8s"` on the `animateTransform` that rotates the cube.
-3. **Use as standalone image** — save the `<svg>...</svg>` block into `header.svg` and reference it with `![header](./header.svg)`.
+## 💼 Experience  
+
+### 🚀 Mobisoft Technologies – Internship (Remote)  
+✅ **React.js front-end redesign** → reduced load time **60%**  
+✅ Audited **200+ lines** of code → fixed **15+ bugs**  
+✅ Built **feature integrations** with senior guidance  
 
 ---
 
-## Higher-fidelity options
-- **Interactive 3D (three.js / model-viewer):** GitHub READMEs do not allow arbitrary JS, so put an interactive demo on GitHub Pages (or CodePen) and link to it from your README.
-- **True 3D animation GIF/WebP:** render a rotating 3D scene in three.js and export to GIF or WebP, then add it to README with `![3D header](./header.gif)`. (Better compatibility but larger file size.)
+## 📌 Featured Projects  
+
+### 🏡 **Homify – Real Estate Rental Platform**  
+⚙️ **Next.js | TypeScript | Redux | AWS | PostgreSQL | Prisma | PostGIS**  
+- Built **RBAC-secured rental platform** with AWS Cognito  
+- Optimized APIs → **60% faster queries**  
+- Deployed on AWS → **99.9% uptime**  
+
+🔗 [Live Demo](#) | [GitHub Repo](#)
 
 ---
 
-If you want, I can:
-- generate a more complex SVG (animated particle tunnel, text morph, logo reveal), or
-- give a quick three.js script and `ffmpeg` commands to produce a high-quality GIF/WebP you can embed.
+### 💬 **ChatSync – Real-Time Microservices Chat App**  
+⚙️ **MERN | WebSockets | Redis | RabbitMQ | Docker | AWS EC2 | PM2**  
+- Real-time chat with **<100ms latency**  
+- **JWT + OTP auth (95% success)**  
+- Redis caching → **40% DB boost**  
+- RabbitMQ decoupling → **30% faster OTP dispatching**  
 
-Which would you like next?
+🔗 [Live Demo](#) | [GitHub Repo](#)
+
+---
+
+## 🏆 Achievements  
+🥇 Winner – Web Development (Avishkar Tech Fest 2024)  
+🤖 Finalist – IIT Bombay e-Yantra Robotics Competition (2023)  
+⚡ 2nd Runner-up – MNNIT Robotics Club (2023)  
+🌍 Global Rank 41 – CodeChef Div 3 (2025)  
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,redis,aws,docker,rabbitmq,git,github&theme=light" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guri9368&show_icons=true&theme=radical" alt="stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guri9368&theme=radical" alt="streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guri9368&layout=compact&theme=radical" alt="languages" height="170"/>
+</p>
+
+---
+
+## 🔥 LeetCode Stats  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/gurmeet_009?theme=radical&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats"/>
+</p>
+
+---
+
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gurmeet-singh-rathor-1bbbaa270/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/gurmeet_009/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:gurigurmeet1234567@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+⭐️ From [Guri9368](https://github.com/Guri9368)
