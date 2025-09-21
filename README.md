@@ -19,7 +19,7 @@
 - 🔥 Active on **LeetCode** → [Profile](https://leetcode.com/u/gurmeet_009/)  
   - Solved **677+ Problems**  
   - Global Rank **78,062**  
-  - Contest Rating: **1548 (Top 32%)**
+  - Contest Rating: **1600+**
 
 ---
 
