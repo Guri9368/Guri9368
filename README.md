@@ -16,10 +16,10 @@
 - 💻 Passionate about **Full-Stack Development, System Design, and Problem Solving**  
 - 🚀 Experienced with **MERN, Next.js, TypeScript, AWS, Prisma, PostgreSQL, Microservices**  
 - 🏆 Secured **1st Position in WebCode Competition** (Avishkar Tech Fest 2024)  
-- 🔥 Active on **LeetCode** → [Profile](https://leetcode.com/u/gurmeet_009/)  
-  - Solved **677+ Problems**  
-  - Global Rank **78,062**  
-  - Contest Rating: **1600+**
+- 🔥 Active on **LeetCode** → [Profile](https://leetcode.com/u/gurmeet_s_r9/)  
+  - Solved **730+ Problems**  
+  - Global Rank **65000**  
+  - Contest Rating: **1660+**
 
 ---
 
@@ -40,7 +40,7 @@
 - Optimized APIs → **60% faster queries**  
 - Deployed on AWS → **99.9% uptime**  
 
-🔗 [Live Demo](#) | [GitHub Repo](#)
+🔗 [Live Demo](https://main.d2ernz8r01dkel.amplifyapp.com) | [GitHub Repo](#)
 
 ---
 
@@ -51,7 +51,7 @@
 - Redis caching → **40% DB boost**  
 - RabbitMQ decoupling → **30% faster OTP dispatching**  
 
-🔗 [Live Demo](#) | [GitHub Repo](#)
+ 
 
 ---
 
