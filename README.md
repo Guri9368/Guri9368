@@ -17,9 +17,9 @@
 - 🚀 Experienced with **MERN, Next.js, TypeScript, AWS, Prisma, PostgreSQL, Microservices**  
 - 🏆 Secured **1st Position in WebCode Competition** (Avishkar Tech Fest 2024)  
 - 🔥 Active on **LeetCode** → [Profile](https://leetcode.com/u/gurmeet_s_r9/)  
-  - Solved **730+ Problems**  
-  - Global Rank **65000**  
-  - Contest Rating: **1660+**
+  - Solved **760+ Problems**  
+  - Global Rank **61000**  
+  - Contest Rating: **1850+**
 
 ---
 
