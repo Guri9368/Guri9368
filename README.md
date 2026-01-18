@@ -87,7 +87,7 @@
 ## 🔥 LeetCode Stats  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/gurmeet_009?theme=radical&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/gurmeet_s_r9?theme=radical&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats"/>
 </p>
 
 ---
@@ -98,7 +98,7 @@
   <a href="https://www.linkedin.com/in/gurmeet-singh-rathor-1bbbaa270/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/gurmeet_009/">
+  <a href="https://leetcode.com/u/gurmeet_s_r9/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:gurigurmeet1234567@gmail.com">
