@@ -12,7 +12,7 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 Final Year B.Tech in **Chemical Engineering** at **MNNIT Allahabad** (2022–2026)  
+- 🎓 Final Year B.Tech at **MNNIT Allahabad** (2022–2026)  
 - 💻 Passionate about **Full-Stack Development, System Design, and Problem Solving**  
 - 🚀 Experienced with **MERN, Next.js, TypeScript, AWS, Prisma, PostgreSQL, Microservices**  
 - 🏆 Secured **1st Position in WebCode Competition** (Avishkar Tech Fest 2024)  
