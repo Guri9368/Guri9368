@@ -5,7 +5,7 @@
 
 <!-- Matrix Style Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=150&lines=💻+Full-Stack+Developer+%26+Architect;⚡+760%2B+LeetCode+Problems+|+Rating+1850%2B;🏆+Contest+Specialist+|+Global+Rank+61K;🚀+MERN+•+Next.js+•+TypeScript+•+AWS;🎯+Building+Scalable+Distributed+Systems" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=Full-Stack+Developer+and+Architect;760%2B+LeetCode+Problems+Solved;Contest+Rating+1850%2B;MERN+Stack+Next.js+TypeScript+AWS;Building+Scalable+Systems" alt="Typing SVG" /></a>
 </p>
 
 <!-- 3D Rotating Globe / Animated Coder GIF -->
