@@ -94,7 +94,7 @@ const gurmeet = {
 
 ### 🚀 Mobisoft Technologies
 **Software Development Intern** | Remote  
-*Duration: [Add your duration]*
+*Duration: 2 Month*
 
 **Key Contributions:**
 - ⚡ Optimized React.js frontend → **60% load time reduction**
